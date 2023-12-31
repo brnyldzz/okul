@@ -1,0 +1,30 @@
+C:\Users\ARIBILGI\Desktop\ronaldo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ARIBILGI\Desktop\ronaldo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ARIBILGI\Desktop\ronaldo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ARIBILGI\Desktop\ronaldo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\ronaldo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ARIBILGI\Desktop\ronaldo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ARIBILGI\Desktop\ronaldo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ARIBILGI\Desktop\ronaldo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\ronaldo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ARIBILGI\Desktop\ronaldo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\baran\Desktop\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\baran\Desktop\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\baran\Desktop\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\baran\Desktop\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\baran\Desktop\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\baran\Desktop\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\baran\Desktop\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\baran\Desktop\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\baran\Desktop\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\baran\Desktop\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\sp ile veri ekle sil güncelle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
